@@ -1,0 +1,11 @@
+D:\Meet\TailorShop\TailorShop\TailorShop\bin\Debug\TailorShop.exe.config
+D:\Meet\TailorShop\TailorShop\TailorShop\bin\Debug\TailorShop.exe
+D:\Meet\TailorShop\TailorShop\TailorShop\bin\Debug\TailorShop.pdb
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.csprojAssemblyReference.cache
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.MainPage.resources
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.Properties.Resources.resources
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.csproj.GenerateResource.cache
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.csproj.CoreCompileInputs.cache
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.exe
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.pdb
+D:\Meet\TailorShop\TailorShop\TailorShop\obj\Debug\TailorShop.CustomerEntry.resources
